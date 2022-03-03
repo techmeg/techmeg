@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello. Meg Parsons here.
 
-<!--
-**techmeg/techmeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recovering Project Manager looking for opportunites to write code. My
+skill set was formed both online...
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and in a bootcamp...
+
+- more of same, plus
+- Java
+- Spring MVC
+- SQL
+
+and more online tutorials/courses...
+
+- Saas
+- Lotta JS
+- React
+
+and from some on the job learning...
+
+- WordPress
+- PHP
+- a smattering of Laravel and Vue.
